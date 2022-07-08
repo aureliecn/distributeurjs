@@ -1,0 +1,25 @@
+body{
+    background-color: darkslateblue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+    height: 100vh;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+strong{
+    background-color: white;
+    color: darkslateblue;
+    border-radius: 0.5rem;
+    margin-left: 0.5rem;
+    padding: 0.25rem 0.5rem;
+}
